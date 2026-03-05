@@ -300,7 +300,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qcowfMG8eB9tcPpabAMD-118" value="注意力头1 &lt;br&gt; 注意力权重计算-&amp;gt;特征加权更新" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="-729" y="247" width="199" height="57" as="geometry" />
+          <mxGeometry x="-729" y="247" width="198" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="qcowfMG8eB9tcPpabAMD-119" value="注意力头1 &lt;br&gt; 注意力权重计算-&amp;gt;特征加权更新" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="-729" y="297.5" width="198" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="qcowfMG8eB9tcPpabAMD-120" value="注意力头8&amp;nbsp;&lt;br&gt; 注意力权重计算-&amp;gt;特征加权更新" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="-729" y="398" width="198" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="qcowfMG8eB9tcPpabAMD-121" value="...(共8个头...)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="-729" y="348" width="198" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="qcowfMG8eB9tcPpabAMD-122" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;direction=west;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-531" y="269.5" width="50" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
