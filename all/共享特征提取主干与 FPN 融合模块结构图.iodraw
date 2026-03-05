@@ -65,7 +65,7 @@
           <mxGeometry x="-736" y="213" width="356" height="231" as="geometry" />
         </mxCell>
         <mxCell id="qcowfMG8eB9tcPpabAMD-51" value="中部:多头图注意力计算" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="-674.5" y="218" width="130.5" height="30" as="geometry" />
+          <mxGeometry x="-623.25" y="217" width="130.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qcowfMG8eB9tcPpabAMD-52" value="K" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-1464" y="1863" width="624" height="220" as="geometry" />
@@ -244,9 +244,6 @@
         <mxCell id="qcowfMG8eB9tcPpabAMD-104" value="H" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-370" y="160" width="1036" height="338" as="geometry" />
         </mxCell>
-        <mxCell id="qcowfMG8eB9tcPpabAMD-105" value="注意力头1 &#xa; 注意力权重计算-&gt;特征加权更新" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-713" y="253" width="153" height="47" as="geometry" />
-        </mxCell>
         <mxCell id="qcowfMG8eB9tcPpabAMD-106" value="拼接" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="79" y="321" width="62" height="51" as="geometry" />
         </mxCell>
@@ -301,6 +298,9 @@
             <Array as="points" />
             <mxPoint x="133" y="548" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="qcowfMG8eB9tcPpabAMD-118" value="注意力头1 &lt;br&gt; 注意力权重计算-&amp;gt;特征加权更新" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="-729" y="247" width="199" height="57" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
