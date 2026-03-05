@@ -5,12 +5,12 @@
         <mxCell id="X5NqExCQtvZxIxQ7pmgY-0" />
         <mxCell id="1" parent="X5NqExCQtvZxIxQ7pmgY-0" />
         <mxCell id="qcowfMG8eB9tcPpabAMD-22" value="来自检测分支的候选区域&lt;br&gt;与分割分支的初始分割结果" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="-1008.5" y="129" width="199" height="57" as="geometry" />
+          <mxGeometry x="-986.5" y="129" width="199" height="57" as="geometry" />
         </mxCell>
         <mxCell id="qcowfMG8eB9tcPpabAMD-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;startSize=6;endSize=6;fontSize=12;fontFamily=宋体;spacing=3;strokeWidth=1;jumpSize=6;shadow=1;targetPerimeterSpacing=0;sourcePerimeterSpacing=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-909.42" y="186" as="sourcePoint" />
-            <mxPoint x="-909.42" y="213" as="targetPoint" />
+            <mxPoint x="-887.5" y="186" as="sourcePoint" />
+            <mxPoint x="-887.5" y="213" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qcowfMG8eB9tcPpabAMD-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=宋体;" vertex="1" parent="1">
@@ -126,14 +126,14 @@
         </mxCell>
         <mxCell id="qcowfMG8eB9tcPpabAMD-143" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;startSize=6;endSize=6;fontSize=12;fontFamily=宋体;spacing=3;strokeWidth=1;jumpSize=6;shadow=1;targetPerimeterSpacing=0;sourcePerimeterSpacing=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-916.24" y="480" as="sourcePoint" />
-            <mxPoint x="-916.24" y="507" as="targetPoint" />
+            <mxPoint x="-887.5" y="480" as="sourcePoint" />
+            <mxPoint x="-887.5" y="507" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qcowfMG8eB9tcPpabAMD-144" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;startSize=6;endSize=6;fontSize=12;fontFamily=宋体;spacing=3;strokeWidth=1;jumpSize=6;shadow=1;targetPerimeterSpacing=0;sourcePerimeterSpacing=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-906.99" y="747" as="sourcePoint" />
-            <mxPoint x="-906.99" y="774" as="targetPoint" />
+            <mxPoint x="-887.5" y="747" as="sourcePoint" />
+            <mxPoint x="-887.5" y="774" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
